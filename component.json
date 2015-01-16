@@ -1,0 +1,9 @@
+{
+  "name": "selectize",
+  "description": "Selectize is a jQuery-based custom <select> UI control. Useful for tagging, contact lists, country selectors, etc.",
+  "version": "0.11.2",
+  "dependencies": {
+    "components/jquery": ">=1.7.0",
+    "mattwigway/sifter.js": "0.3.x",
+    "mattwigway/microplugin": "0.0.x"
+}
