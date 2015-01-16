@@ -6,4 +6,8 @@
     "components/jquery": ">=1.7.0",
     "mattwigway/sifter.js": "0.3.x",
     "mattwigway/microplugin": "0.0.x"
+  },
+  "scripts": ["dist/js/selectize.js"],
+  "main": "dist/js/selectize.js",
+  "styles": ["dist/css/selective.css"]
 }
