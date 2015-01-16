@@ -5,7 +5,7 @@
   "dependencies": {
     "components/jquery": ">=1.7.0",
     "mattwigway/sifter.js": "master",
-    "mattwigway/microplugin": "master"
+    "mattwigway/microplugin.js": "master"
   },
   "scripts": ["dist/js/selectize.js"],
   "main": "dist/js/selectize.js",
